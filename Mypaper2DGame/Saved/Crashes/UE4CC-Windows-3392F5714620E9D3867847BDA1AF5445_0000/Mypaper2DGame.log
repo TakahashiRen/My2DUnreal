@@ -1,0 +1,1165 @@
+﻿Log file open, 09/26/18 08:59:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Mypaper2DGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.307519
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GT 730
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.26-05.59.54:978][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-05.59.54:978][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.26-05.59.54:994][  0]LogHAL: Display: Platform has ~ 16 GB [17054351360 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.26-05.59.54:994][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.26-05.59.54:994][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.26-05.59.54:994][  0]LogInit: Computer: AOTA1-1L141-16D
+[2018.09.26-05.59.54:994][  0]LogInit: User: RenTak
+[2018.09.26-05.59.54:994][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.26-05.59.54:994][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2018.09.26-05.59.54:995][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.26-05.59.54:995][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.26-05.59.54:995][  0]LogMemory: Process Physical Memory: 101.21 MB used, 101.21 MB peak
+[2018.09.26-05.59.54:995][  0]LogMemory: Process Virtual Memory: 89.49 MB used, 89.49 MB peak
+[2018.09.26-05.59.54:995][  0]LogMemory: Physical Memory: 5375.03 MB used,  10889.27 MB free, 16264.30 MB total
+[2018.09.26-05.59.54:995][  0]LogMemory: Virtual Memory: 496.15 MB used,  10889.27 MB free, 134217728.00 MB total
+[2018.09.26-05.59.55:099][  0]LogInit: Overriding language with editor language configuration option (ja).
+[2018.09.26-05.59.55:099][  0]LogInit: Overriding locale with editor locale configuration option (ja).
+[2018.09.26-05.59.55:417][  0]LogStreaming: Display: Took  0.318s to InitEngineTextLocalization.
+[2018.09.26-05.59.55:417][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.26-05.59.55:465][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.26-05.59.55:465][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.26-05.59.55:651][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.26-05.59.55:651][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.26-05.59.55:690][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 730' (Feature Level 11_0)
+[2018.09.26-05.59.55:690][  0]LogD3D11RHI:       2018/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.26-05.59.55:706][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.09.26-05.59.55:706][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.26-05.59.55:708][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.26-05.59.55:708][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.26-05.59.55:708][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.26-05.59.55:715][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.26-05.59.55:715][  0]LogD3D11RHI:     GPU DeviceId: 0x1287 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.26-05.59.55:715][  0]LogWindows: EnumDisplayDevices:
+[2018.09.26-05.59.55:715][  0]LogWindows:    0. 'NVIDIA GeForce GT 730' (P:1 D:1)
+[2018.09.26-05.59.55:716][  0]LogWindows:    1. 'NVIDIA GeForce GT 730' (P:0 D:1)
+[2018.09.26-05.59.55:716][  0]LogWindows:    2. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2018.09.26-05.59.55:716][  0]LogWindows:    3. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2018.09.26-05.59.55:716][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.26-05.59.55:716][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.26-05.59.55:716][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.26-05.59.55:716][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.09.26-05.59.55:716][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 730
+[2018.09.26-05.59.55:716][  0]LogD3D11RHI:   Driver Version: 382.98 (internal:22.21.13.8298, unified:382.98)
+[2018.09.26-05.59.55:716][  0]LogD3D11RHI:      Driver Date: 8-17-2017
+[2018.09.26-05.59.55:716][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.09.26-05.59.55:748][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.26-05.59.55:758][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.26-05.59.55:802][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Intermediate/Shaders/WorkingDirectory/10576/).
+[2018.09.26-05.59.55:802][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/RenTak/AppData/Local/Temp/UnrealShaderWorkingDir/779128ED445F9A22F2FC958F555639E1/'.
+[2018.09.26-05.59.56:071][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.26-05.59.56:082][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.26-05.59.56:093][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.26-05.59.56:109][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.26-05.59.56:123][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.26-05.59.56:135][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.26-05.59.56:148][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.26-05.59.56:160][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.26-05.59.56:166][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.26-05.59.56:249][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.26-05.59.56:310][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-05.59.56:310][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.26-05.59.56:331][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-05.59.56:331][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.26-05.59.56:342][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.26-05.59.56:353][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.26-05.59.56:364][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.26-05.59.56:375][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.26-05.59.56:383][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.26-05.59.56:383][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.26-05.59.56:433][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.26-05.59.56:433][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.26-05.59.56:433][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.26-05.59.57:135][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.26-05.59.57:200][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/RenTak/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.26-05.59.57:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/RenTak/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.26-05.59.57:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.26-05.59.57:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.26-05.59.57:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.26-05.59.57:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.26-05.59.57:214][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.26-05.59.57:226][  0]LogDerivedDataCache: Using Local data cache path C:/Users/RenTak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.26-05.59.57:226][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.26-05.59.57:226][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.26-05.59.57:244][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.26-05.59.57:245][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.26-05.59.57:248][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.26-05.59.57:319][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.09.26-05.59.57:624][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.26-05.59.57:839][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.26-05.59.57:859][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.26-05.59.57:859][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.26-05.59.57:859][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.26-05.59.57:859][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.26-05.59.57:877][  0]LogNetVersion: Mypaper2DGame 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2135412584)
+[2018.09.26-05.59.58:286][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.045327 seconds
+[2018.09.26-05.59.58:291][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.26-05.59.58:291][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.26-05.59.58:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.26-05.59.59:377][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.26-05.59.59:398][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.26-05.59.59:622][  0]SourceControl: ソースコントロールは無効です
+[2018.09.26-05.59.59:622][  0]SourceControl: ソースコントロールは無効です
+[2018.09.26-05.59.59:649][  0]SourceControl: ソースコントロールは無効です
+[2018.09.26-05.59.59:658][  0]SourceControl: ソースコントロールは無効です
+[2018.09.26-06.00.00:022][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.26-06.00.00:098][  0]LogOcInput: OculusInput pre-init called
+[2018.09.26-06.00.00:176][  0]LogEngine: Initializing Engine...
+[2018.09.26-06.00.00:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.26-06.00.00:178][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.26-06.00.00:178][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-06.00.00:178][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.26-06.00.00:178][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-06.00.00:373][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.26-06.00.00:390][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.26-06.00.00:401][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-06.00.00:433][  0]LogInit: FAudioDevice initialized.
+[2018.09.26-06.00.00:433][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.26-06.00.00:512][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/RenTak/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.26-06.00.00:513][  0]LogInit: Texture streaming: Enabled
+[2018.09.26-06.00.00:558][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.26-06.00.00:569][  0]LogInit: Transaction tracking system initialized
+[2018.09.26-06.00.00:586][  0]BlueprintLog: New page: エディタの読み込み
+[2018.09.26-06.00.00:665][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.09.26-06.00.00:912][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.26-06.00.00:912][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.26-06.00.00:912][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.26-06.00.00:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.26-06.00.00:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.26-06.00.00:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.26-06.00.00:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.26-06.00.01:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/' took 0.01s
+[2018.09.26-06.00.01:129][  0]SourceControl: ソースコントロールは無効です
+[2018.09.26-06.00.01:129][  0]Cmd: MAP LOAD FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/My2DMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.26-06.00.01:130][  0]LightingResults: New page: ライティングのビルド
+[2018.09.26-06.00.01:132][  0]MapCheck: New page: マップをチェック
+[2018.09.26-06.00.01:132][  0]LightingResults: New page: <何も選択されていません>
+[2018.09.26-06.00.01:358][  0]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-06.00.01:362][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.26-06.00.01:382][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.26-06.00.01:444][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 61.207ミリ秒かかりました。
+[2018.09.26-06.00.01:444][  0]LogFileHelpers: Loading map 'My2DMap' took 0.315
+[2018.09.26-06.00.01:527][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.09.26-06.00.01:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.00.01:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.00.01:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.00.01:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-06.00.01:630][  0]LogCollectionManager: Loaded 0 collections in 0.001208 seconds
+[2018.09.26-06.00.01:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Collections/' took 0.01s
+[2018.09.26-06.00.01:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/Developers/RenTak/Collections/' took 0.01s
+[2018.09.26-06.00.01:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/Collections/' took 0.01s
+[2018.09.26-06.00.01:687][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.26-06.00.01:700][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2572 classes and 603 folders.
+[2018.09.26-06.00.01:712][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.26-06.00.01:814][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.26-06.00.01:835][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.26-06.00.01:969][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.26-06.00.01:971][  0]LogSlate: Took 0.000800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.09.26-06.00.01:972][  0]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.09.26-06.00.01:972][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.26-06.00.01:979][  0]LogSlate: Took 0.001370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.26-06.00.02:051][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-06.00.02:112][  0]LogSlate: Took 0.001429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-06.00.02:213][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.26-06.00.02:213][  0]LogLoad: (Engine Initialization) Total time: 8.83 seconds
+[2018.09.26-06.00.02:213][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.26-06.00.02:247][  0]LogAssetRegistry: Asset discovery search completed in 4.9504 seconds
+[2018.09.26-06.00.02:248][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.26-06.00.02:248][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2018.09.26-06.00.02:251][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.26-06.00.03:643][  5]LogSlate: Took 0.010279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.09.26-06.00.03:648][  5]LogSlate: Took 0.004270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.26-06.07.22:867][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.26.28:948][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-06.26.40:762][566]LogSlate: Took 0.006680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2018.09.26-06.26.40:766][566]LogSlate: Took 0.003572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.26-06.45.57:760][544]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.09.26-06.45.57:764][544]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.09.26-06.48.08:612][682]LogSlate: Window '親クラスを選択' being destroyed
+[2018.09.26-06.48.44:659][301]LogSlate: Window '親クラスを選択' being destroyed
+[2018.09.26-06.49.04:437][247]LogMetaData: Removing '/Game/BluePrints/UI_Element.SKEL_UI_Element_C' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2018.09.26-06.49.04:437][247]LogMetaData: Removing '/Game/BluePrints/UI_Element.UI_Element_C' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2018.09.26-06.49.04:437][247]LogMetaData: Removing '/Game/BluePrints/UI_Element.UI_Element:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2018.09.26-06.49.04:437][247]LogMetaData: Removing '/Game/BluePrints/UI_Element.UI_Element:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2018.09.26-06.49.04:437][247]LogMetaData: Removing '/Game/BluePrints/UI_Element.UI_Element:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2018.09.26-06.49.04:460][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UI_Element" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UI_Element.uasset" SILENT=true
+[2018.09.26-06.49.04:467][247]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UI_Element3F5B76B04CD69F8A73569BB59522A561.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UI_Element.uasset'
+[2018.09.26-06.49.06:234][330]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UI_Element.UI_Element
+[2018.09.26-06.49.06:694][330]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.26-06.50.41:260][300]LogSlate: Took 0.015635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.26-06.51.41:046][877]BlueprintLog: New page: UI_Element をコンパイル
+[2018.09.26-06.51.41:855][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UI_Element" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UI_Element.uasset" SILENT=true
+[2018.09.26-06.51.41:888][907]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UI_ElementBE5661A449DD2B001A9730AB258DEF48.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UI_Element.uasset'
+[2018.09.26-06.53.45:993][747]LogSlate: Took 0.005081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.26-06.58.08:953][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.024
+[2018.09.26-06.58.08:955][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/UI_Element] ([1] browsable assets)...
+[2018.09.26-06.58.08:955][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI_Element]
+[2018.09.26-06.58.08:979][298]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UI_Element_Auto140E88153443914FC5ADF88859D15C19B.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/UI_Element_Auto1.uasset'
+[2018.09.26-06.58.08:981][298]LogFileHelpers: Auto-saving content packages took 0.027
+[2018.09.26-07.08.09:699][548]BlueprintLog: New page: UI_Element をコンパイル
+[2018.09.26-07.08.10:472][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UI_Element" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UI_Element.uasset" SILENT=true
+[2018.09.26-07.08.10:501][577]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UI_Element2FE7401543874D864A185AA3536BEC25.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UI_Element.uasset'
+[2018.09.26-07.08.13:888][766]LogSlate: Window 'UI_Element' being destroyed
+[2018.09.26-07.08.27:344][143]LogSlate: Window '親クラスを選択' being destroyed
+[2018.09.26-07.08.41:781][964]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UI_Slot.UI_Slot
+[2018.09.26-07.09.36:739][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.023
+[2018.09.26-07.09.36:740][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/UI_Slot] ([1] browsable assets)...
+[2018.09.26-07.09.36:740][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI_Slot]
+[2018.09.26-07.09.36:747][246]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UI_Slot_Auto2537F8B85415A3AF519FCBF87F6422EF3.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/UI_Slot_Auto2.uasset'
+[2018.09.26-07.09.36:750][246]LogFileHelpers: Auto-saving content packages took 0.011
+[2018.09.26-07.19.36:977][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.030
+[2018.09.26-07.19.36:979][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/UI_Slot] ([1] browsable assets)...
+[2018.09.26-07.19.36:979][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI_Slot]
+[2018.09.26-07.19.36:991][597]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UI_Slot_Auto3A2544309443F105AD907BA8BFAFAF1B0.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/UI_Slot_Auto3.uasset'
+[2018.09.26-07.19.36:993][597]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.09.26-07.32.23:813][114]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.26-07.32.26:143][191]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (2DBackground_Sprite)
+[2018.09.26-07.32.26:914][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-07.32.26:988][224]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-07.32.27:003][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-07.32.27:017][224]PIE: New page: PIEセッション: My2DMap (2018/09/26 13:32:27)
+[2018.09.26-07.32.27:017][224]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-07.32.27:018][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001603s)
+[2018.09.26-07.32.27:019][224]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-07.32.27:019][224]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.09.26-07.32.27:019][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.002336s)
+[2018.09.26-07.32.27:043][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-07.32.27:059][224]LogInit: FAudioDevice initialized.
+[2018.09.26-07.32.27:098][224]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-07.32.27:100][224]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-10.32.27
+[2018.09.26-07.32.27:101][224]LogWorld: Bringing up level for play took: 0.001799
+[2018.09.26-07.32.27:123][224]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.26-07.32.27:126][224]PIE: /Game/UEDPIE_0_My2DMap -0.467のプレイ イン エディタの開始時間
+[2018.09.26-07.33.17:390][215]LogCharacterMovement: MyCharcter_C_0 is stuck and failed to move! Velocity: X=88.45 Y=0.00 Z=0.00 Location: X=-418.20 Y=0.00 Z=-64.35 Normal: X=-0.72 Y=0.25 Z=0.65 PenetrationDepth:8.024 Actor:Platform_12 Component:RenderComponent BoneName:None (0 other events since notify)
+[2018.09.26-07.33.40:695][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-07.33.40:741][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-07.33.40:774][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-07.33.40:800][618]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.26-07.41.01:905][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-07.48.38:022][894]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/MyInventory.MyInventory
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_0.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_1.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_MyInventory_C_24:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_2.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_3.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.17:105][244]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (SizeBox /Engine/UMG/Editor/Transient.SizeBox_59).  Import failed...
+[2018.09.26-07.49.17:105][244]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2018.09.26-07.49.21:060][244]LogSlate: Window 'メッセージ' being destroyed
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_0.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_1.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_MyInventory_C_24:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_2.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_3.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:978][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_4.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:979][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_5.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:979][782]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_6.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.44:979][782]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (SizeBox /Engine/UMG/Editor/Transient.SizeBox_60).  Import failed...
+[2018.09.26-07.49.44:979][782]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_0.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_1.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_MyInventory_C_24:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_2.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_3.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_4.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_5.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_6.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_7.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.45:686][855]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (SizeBox /Engine/UMG/Editor/Transient.SizeBox_60).  Import failed...
+[2018.09.26-07.49.45:686][855]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_0.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_1.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_MyInventory_C_24:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_2.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_3.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_4.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_5.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_6.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_7.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_8.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:111][897]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (SizeBox /Engine/UMG/Editor/Transient.SizeBox_60).  Import failed...
+[2018.09.26-07.49.46:111][897]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_0.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_1.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_MyInventory_C_24:WidgetTree.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_2.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_3.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_4.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_5.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_6.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_7.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_8.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_9.WidgetTree_0.CanvasPanel_0
+[2018.09.26-07.49.46:577][941]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (SizeBox /Engine/UMG/Editor/Transient.SizeBox_60).  Import failed...
+[2018.09.26-07.49.46:577][941]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2018.09.26-07.52.03:287][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.032
+[2018.09.26-07.52.03:289][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/MyInventory] ([1] browsable assets)...
+[2018.09.26-07.52.03:289][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/MyInventory]
+[2018.09.26-07.52.03:309][548]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventory_Auto43209F9D8425B7A5AEE8F2C837AB75EF5.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/MyInventory_Auto4.uasset'
+[2018.09.26-07.52.03:310][548]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.09.26-08.10.18:458][945]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.025
+[2018.09.26-08.10.18:459][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/MyInventory] ([1] browsable assets)...
+[2018.09.26-08.10.18:459][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/MyInventory]
+[2018.09.26-08.10.18:481][945]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventory_Auto5D67B72D14A7E63A9A5CAE2A6B2FDCAB9.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/MyInventory_Auto5.uasset'
+[2018.09.26-08.10.18:483][945]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.09.26-08.17.50:532][595]LogSlate: Took 0.006904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2018.09.26-08.17.59:218][574]BlueprintLog: New page: MyInventory をコンパイル
+[2018.09.26-08.18.08:658][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-08.18.08:807][ 87]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-08.18.08:824][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-08.18.08:825][ 87]PIE: New page: PIEセッション: My2DMap (2018/09/26 14:18:08)
+[2018.09.26-08.18.08:825][ 87]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-08.18.08:826][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2018.09.26-08.18.08:827][ 87]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-08.18.08:827][ 87]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.09.26-08.18.08:827][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.002197s)
+[2018.09.26-08.18.08:855][ 87]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-08.18.08:870][ 87]LogInit: FAudioDevice initialized.
+[2018.09.26-08.18.08:904][ 87]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-08.18.08:906][ 87]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-11.18.08
+[2018.09.26-08.18.08:906][ 87]LogWorld: Bringing up level for play took: 0.000728
+[2018.09.26-08.18.08:918][ 87]PIE: /Game/UEDPIE_0_My2DMap -0.648のプレイ イン エディタの開始時間
+[2018.09.26-08.18.11:219][223]LogScript: Warning: Accessed None trying to read property MyInventoryUI
+	MyCharcter_C /Game/UEDPIE_0_My2DMap.My2DMap:PersistentLevel.MyCharcter_C_0
+	Function /Game/BluePrints/MyCharcter.MyCharcter_C:ExecuteUbergraph_MyCharcter:03C5
+[2018.09.26-08.18.11:219][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyInventoryUI". Blueprint:  MyCharcter Function:  Execute Ubergraph My Charcter Graph:  EventGraph Node:  ブランチ
+[2018.09.26-08.18.16:129][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-08.18.31:164][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-08.18.31:200][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-08.18.31:228][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-08.18.31:265][556]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.26-08.19.31:342][433]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/MyCharcter.MyCharcter
+[2018.09.26-08.20.27:602][548]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.09.26-08.20.27:615][548]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.09.26-08.20.53:341][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.030
+[2018.09.26-08.20.53:343][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/MyInventory] ([1] browsable assets)...
+[2018.09.26-08.20.53:343][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/MyInventory]
+[2018.09.26-08.20.53:367][116]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventory_Auto673E7D3B949926D08A289E99F5F6D3F01.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/MyInventory_Auto6.uasset'
+[2018.09.26-08.20.53:368][116]LogFileHelpers: Auto-saving content packages took 0.027
+[2018.09.26-10.02.27:846][680]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/MyInventory.MyInventory
+[2018.09.26-10.06.06:371][386]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.06.52:864][877]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.07.01:575][912]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.07.08:712][755]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.07.46:747][259]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.07.56:693][931]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.09.01:531][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.032
+[2018.09.26-10.09.01:534][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/MyInventory] ([1] browsable assets)...
+[2018.09.26-10.09.01:534][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/MyInventory]
+[2018.09.26-10.09.01:554][739]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventory_Auto77295467A4D86D80D134E47B705C9EC27.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/MyInventory_Auto7.uasset'
+[2018.09.26-10.09.01:556][739]LogFileHelpers: Auto-saving content packages took 0.023
+[2018.09.26-10.10.43:665][817]LogSlate: Window 'アセットに名前を付けて保存' being destroyed
+[2018.09.26-10.10.47:358][258]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.47:358][258]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.47:358][258]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.10.47:358][258]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.47:358][258]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.47:358][258]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0.GridSlot_0 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_0
+[2018.09.26-10.10.47:358][258]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0.GridSlot_0) from referencer (Image /Engine/UMG/Editor/Transient.Image_0).  Import failed...
+[2018.09.26-10.10.47:358][258]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_0"''
+[2018.09.26-10.10.48:765][419]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.48:766][419]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.48:766][419]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.10.48:766][419]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.48:766][419]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.48:766][419]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_19.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.10.48:766][419]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0.GridSlot_1 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_1
+[2018.09.26-10.10.48:766][419]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0.GridSlot_1) from referencer (Image /Engine/UMG/Editor/Transient.Image_1).  Import failed...
+[2018.09.26-10.10.48:766][419]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_1"''
+[2018.09.26-10.11.25:188][747]BlueprintLog: New page: MyInventory をコンパイル
+[2018.09.26-10.11.25:965][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyInventory" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyInventory.uasset" SILENT=true
+[2018.09.26-10.11.25:979][831]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventoryDD66698644BF9AE942769FAB542DC072.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyInventory.uasset'
+[2018.09.26-10.11.56:947][242]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/Inventory_Item.Inventory_Item
+[2018.09.26-10.12.46:195][900]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.13.12:245][212]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-10.15.14:501][393]BlueprintLog: New page: Inventory_Item をコンパイル
+[2018.09.26-10.15.15:283][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Inventory_Item" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/Inventory_Item.uasset" SILENT=true
+[2018.09.26-10.15.15:292][419]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Inventory_Item32DABB21412B304C41E5BFA73573DFE8.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/Inventory_Item.uasset'
+[2018.09.26-10.15.16:404][461]LogSlate: Window 'Inventory_Item' being destroyed
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:105][105]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0.GridSlot_3 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_3
+[2018.09.26-10.15.39:105][105]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0.GridSlot_3) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item).  Import failed...
+[2018.09.26-10.15.39:105][105]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_3"''
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.39:938][198]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_4 or GridSlot /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0.GridSlot_4
+[2018.09.26-10.15.39:938][198]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_4) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_0).  Import failed...
+[2018.09.26-10.15.39:938][198]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_4"''
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_4 or GridSlot /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0.GridSlot_4
+[2018.09.26-10.15.40:385][245]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_4 or GridSlot /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0.GridSlot_4
+[2018.09.26-10.15.40:385][245]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_4) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_0).  Import failed...
+[2018.09.26-10.15.40:385][245]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_4"''
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.55:505][ 41]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.55:505][ 41]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0.GridSlot_6) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_2).  Import failed...
+[2018.09.26-10.15.55:505][ 41]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_6"''
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.56:112][107]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.56:112][107]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0.GridSlot_6) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_2).  Import failed...
+[2018.09.26-10.15.56:112][107]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_6"''
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:662][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:663][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:663][166]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.56:663][166]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.56:663][166]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.56:663][166]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.56:663][166]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_2).  Import failed...
+[2018.09.26-10.15.56:663][166]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_6"''
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:014][201]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_34.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:015][201]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:015][201]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:015][201]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:015][201]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_34.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:015][201]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_2).  Import failed...
+[2018.09.26-10.15.57:015][201]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_6"''
+[2018.09.26-10.15.57:542][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_18.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:542][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_17.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:542][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0
+[2018.09.26-10.15.57:542][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_20.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_21.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_22.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_23.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_24.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Game/BluePrints/MyInventory.MyInventory_C:WidgetTree.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_28.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_29.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_30.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_34.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Engine/Transient.World_9:MyInventory_C_27.WidgetTree_0.GridPanel_0 or GridPanel /Engine/Transient.World_9:MyInventory_C_35.WidgetTree_0.GridPanel_0
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_32.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_31.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Game/BluePrints/MyInventory.MyInventory:WidgetTree.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_34.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:543][257]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6 or GridSlot /Engine/Transient.World_9:MyInventory_C_35.WidgetTree_0.GridPanel_0.GridSlot_6
+[2018.09.26-10.15.57:543][257]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_9:MyInventory_C_33.WidgetTree_0.GridPanel_0.GridSlot_6) from referencer (Inventory_Item_C /Engine/UMG/Editor/Transient.Inventory_Item_C_2).  Import failed...
+[2018.09.26-10.15.57:543][257]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_6"''
+[2018.09.26-10.18.30:249][997]BlueprintLog: New page: MyInventory をコンパイル
+[2018.09.26-10.18.30:778][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyInventory" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyInventory.uasset" SILENT=true
+[2018.09.26-10.18.30:809][ 50]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventoryC9DD15644AE6351AD67DAFB3606A1AAB.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyInventory.uasset'
+[2018.09.26-10.30.55:128][249]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.30.55:149][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.30.55:149][249]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:30:55)
+[2018.09.26-10.30.55:149][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.30.55:150][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001109s)
+[2018.09.26-10.30.55:151][249]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.30.55:151][249]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.09.26-10.30.55:151][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001811s)
+[2018.09.26-10.30.55:185][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.30.55:216][249]LogInit: FAudioDevice initialized.
+[2018.09.26-10.30.55:247][249]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.30.55:249][249]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.30.55
+[2018.09.26-10.30.55:249][249]LogWorld: Bringing up level for play took: 0.000672
+[2018.09.26-10.30.55:262][249]PIE: /Game/UEDPIE_0_My2DMap -0.311のプレイ イン エディタの開始時間
+[2018.09.26-10.30.57:750][397]LogScript: Warning: Accessed None trying to read property MyInventoryUI
+	MyCharcter_C /Game/UEDPIE_0_My2DMap.My2DMap:PersistentLevel.MyCharcter_C_0
+	Function /Game/BluePrints/MyCharcter.MyCharcter_C:ExecuteUbergraph_MyCharcter:03C5
+[2018.09.26-10.30.57:750][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyInventoryUI". Blueprint:  MyCharcter Function:  Execute Ubergraph My Charcter Graph:  EventGraph Node:  ブランチ
+[2018.09.26-10.31.01:526][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.31.01:572][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.31.01:612][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.31.01:632][624]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.26-10.31.04:226][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.31.08:380][942]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.09.26-10.31.08:405][942]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.09.26-10.31.09:256][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.31.23:498][600]BlueprintLog: New page: MyCharcter をコンパイル
+[2018.09.26-10.31.31:498][524]LogEditorTransaction: Undo ウィジェットを移動
+[2018.09.26-10.31.43:342][928]LogEditorTransaction: Undo 選択対象を削除
+[2018.09.26-10.31.45:136][141]LogEditorTransaction: Undo ウィジット名を変更
+[2018.09.26-10.31.45:576][192]LogEditorTransaction: Undo ウィジット名を変更
+[2018.09.26-10.31.46:571][310]LogEditorTransaction: Undo ウィジット名を変更
+[2018.09.26-10.31.48:367][524]LogEditorTransaction: Redo ウィジット名を変更
+[2018.09.26-10.31.48:746][568]LogEditorTransaction: Redo ウィジット名を変更
+[2018.09.26-10.31.49:117][611]LogEditorTransaction: Redo ウィジット名を変更
+[2018.09.26-10.31.49:545][661]LogEditorTransaction: Redo 選択対象を削除
+[2018.09.26-10.31.50:011][716]LogEditorTransaction: Redo ウィジェットを移動
+[2018.09.26-10.31.54:858][293]LogEditorTransaction: Undo ウィジェットを移動
+[2018.09.26-10.32.08:662][944]BlueprintLog: New page: MyInventory をコンパイル
+[2018.09.26-10.32.09:520][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyInventory" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyInventory.uasset" SILENT=true
+[2018.09.26-10.32.09:543][ 40]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyInventoryF7945BF84D1334CF13DC018531A1E78D.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyInventory.uasset'
+[2018.09.26-10.32.12:739][349]BlueprintLog: New page: MyCharcter をコンパイル
+[2018.09.26-10.32.13:439][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyCharcter" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset" SILENT=true
+[2018.09.26-10.32.13:482][409]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyCharcterF58D232B4D1F6C35D8BCC593AC51643F.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset'
+[2018.09.26-10.32.19:850][ 58]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.32.19:869][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.32.19:869][ 58]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:32:19)
+[2018.09.26-10.32.19:869][ 58]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.32.19:870][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000985s)
+[2018.09.26-10.32.19:871][ 58]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.32.19:871][ 58]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2018.09.26-10.32.19:871][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001614s)
+[2018.09.26-10.32.19:899][ 58]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.32.19:931][ 58]LogInit: FAudioDevice initialized.
+[2018.09.26-10.32.19:964][ 58]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.32.19:965][ 58]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.32.19
+[2018.09.26-10.32.19:966][ 58]LogWorld: Bringing up level for play took: 0.000696
+[2018.09.26-10.32.19:978][ 58]PIE: /Game/UEDPIE_0_My2DMap 0.407のプレイ イン エディタの開始時間
+[2018.09.26-10.32.25:674][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.32.25:719][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.32.25:757][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.32.25:784][400]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.26-10.32.26:371][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.32.27:901][596]LogEditorTransaction: Undo 選択対象を削除
+[2018.09.26-10.33.01:304][588]BlueprintLog: New page: MyCharcter をコンパイル
+[2018.09.26-10.33.28:494][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.025
+[2018.09.26-10.33.28:496][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/MyCharcter] ([1] browsable assets)...
+[2018.09.26-10.33.28:496][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/MyCharcter]
+[2018.09.26-10.33.28:542][ 71]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyCharcter_Auto8CBC05C894B52B8813085C99EAB6CFDDF.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/MyCharcter_Auto8.uasset'
+[2018.09.26-10.33.28:544][ 71]LogFileHelpers: Auto-saving content packages took 0.049
+[2018.09.26-10.34.25:514][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyCharcter" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset" SILENT=true
+[2018.09.26-10.34.25:557][654]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyCharcter453563B2437646DE62BD7A90904FD09E.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset'
+[2018.09.26-10.34.26:466][762]BlueprintLog: New page: MyCharcter をコンパイル
+[2018.09.26-10.34.27:020][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyCharcter" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset" SILENT=true
+[2018.09.26-10.34.27:063][803]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyCharcter8EDEC9524A183FC6BD82978C70066046.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset'
+[2018.09.26-10.34.28:493][908]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.34.28:513][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.34.28:513][908]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:34:28)
+[2018.09.26-10.34.28:513][908]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.34.28:514][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001065s)
+[2018.09.26-10.34.28:514][908]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.34.28:514][908]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.09.26-10.34.28:514][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001704s)
+[2018.09.26-10.34.28:542][908]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.34.28:575][908]LogInit: FAudioDevice initialized.
+[2018.09.26-10.34.28:604][908]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.34.28:606][908]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.34.28
+[2018.09.26-10.34.28:606][908]LogWorld: Bringing up level for play took: 0.000742
+[2018.09.26-10.34.28:619][908]PIE: /Game/UEDPIE_0_My2DMap 1.05のプレイ イン エディタの開始時間
+[2018.09.26-10.34.40:907][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.34.40:955][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.34.40:993][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.34.41:018][643]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.26-10.34.43:180][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.34.43:196][761]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.34.43:216][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.34.43:216][761]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:34:43)
+[2018.09.26-10.34.43:216][761]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.34.43:217][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000997s)
+[2018.09.26-10.34.43:218][761]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.34.43:218][761]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2018.09.26-10.34.43:218][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001608s)
+[2018.09.26-10.34.43:245][761]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.34.43:276][761]LogInit: FAudioDevice initialized.
+[2018.09.26-10.34.43:306][761]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.34.43:308][761]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.34.43
+[2018.09.26-10.34.43:309][761]LogWorld: Bringing up level for play took: 0.000583
+[2018.09.26-10.34.43:322][761]PIE: /Game/UEDPIE_0_My2DMap -0.247のプレイ イン エディタの開始時間
+[2018.09.26-10.34.47:389][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.34.47:434][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.34.47:475][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.34.47:500][  4]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.09.26-10.34.48:527][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.35.04:859][931]BlueprintLog: New page: MyCharcter をコンパイル
+[2018.09.26-10.35.05:437][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyCharcter" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset" SILENT=true
+[2018.09.26-10.35.05:483][975]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyCharcter1177ED20432A172FB86884BB10EEE728.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset'
+[2018.09.26-10.35.07:854][173]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.35.07:871][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.35.07:871][173]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:35:07)
+[2018.09.26-10.35.07:871][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.35.07:872][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001131s)
+[2018.09.26-10.35.07:872][173]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.35.07:873][173]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.09.26-10.35.07:873][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001838s)
+[2018.09.26-10.35.07:901][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.35.07:934][173]LogInit: FAudioDevice initialized.
+[2018.09.26-10.35.07:968][173]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.35.07:970][173]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.35.07
+[2018.09.26-10.35.07:970][173]LogWorld: Bringing up level for play took: 0.000597
+[2018.09.26-10.35.07:983][173]PIE: /Game/UEDPIE_0_My2DMap 0.414のプレイ イン エディタの開始時間
+[2018.09.26-10.35.09:257][249]LogScript: Warning: Accessed None trying to read property MyInventoryUI
+	MyCharcter_C /Game/UEDPIE_0_My2DMap.My2DMap:PersistentLevel.MyCharcter_C_0
+	Function /Game/BluePrints/MyCharcter.MyCharcter_C:ExecuteUbergraph_MyCharcter:039F
+[2018.09.26-10.35.09:257][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MyInventoryUI". Blueprint:  MyCharcter Function:  Execute Ubergraph My Charcter Graph:  EventGraph Node:  ブランチ
+[2018.09.26-10.35.12:158][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.35.12:201][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.35.12:237][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.35.12:269][423]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.26-10.35.14:847][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.35.17:655][691]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.09.26-10.35.17:682][691]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.09.26-10.39.15:953][846]BlueprintLog: New page: MyCharcter をコンパイル
+[2018.09.26-10.39.16:684][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MyCharcter" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset" SILENT=true
+[2018.09.26-10.39.16:733][907]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/MyCharcter505345B846F16A4EADA416AF877FD041.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/MyCharcter.uasset'
+[2018.09.26-10.39.18:066][  6]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.39.18:084][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.39.18:084][  6]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:39:18)
+[2018.09.26-10.39.18:084][  6]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.39.18:086][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000996s)
+[2018.09.26-10.39.18:086][  6]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.39.18:086][  6]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.09.26-10.39.18:086][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001673s)
+[2018.09.26-10.39.18:114][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.39.18:146][  6]LogInit: FAudioDevice initialized.
+[2018.09.26-10.39.18:180][  6]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.39.18:182][  6]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.39.18
+[2018.09.26-10.39.18:182][  6]LogWorld: Bringing up level for play took: 0.000676
+[2018.09.26-10.39.18:195][  6]PIE: /Game/UEDPIE_0_My2DMap 0.63のプレイ イン エディタの開始時間
+[2018.09.26-10.39.22:856][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.39.22:905][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.39.22:947][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.39.22:965][282]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.26-10.39.24:182][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.39.55:152][233]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.39.55:171][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.39.55:173][233]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:39:55)
+[2018.09.26-10.39.55:173][233]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.39.55:173][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000987s)
+[2018.09.26-10.39.55:173][233]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.39.55:173][233]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2018.09.26-10.39.55:173][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001593s)
+[2018.09.26-10.39.55:199][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.39.55:230][233]LogInit: FAudioDevice initialized.
+[2018.09.26-10.39.55:260][233]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.39.55:262][233]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.39.55
+[2018.09.26-10.39.55:262][233]LogWorld: Bringing up level for play took: 0.000589
+[2018.09.26-10.39.55:276][233]PIE: /Game/UEDPIE_0_My2DMap -0.289のプレイ イン エディタの開始時間
+[2018.09.26-10.40.00:872][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.40.00:923][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.40.00:965][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.40.00:991][568]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.26-10.40.02:757][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.40.03:360][694]LogEditorViewport: Clicking Background
+[2018.09.26-10.40.05:748][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.40.05:839][825]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.40.05:859][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.40.05:859][825]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:40:05)
+[2018.09.26-10.40.05:859][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.40.05:861][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000993s)
+[2018.09.26-10.40.05:861][825]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.40.05:861][825]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.09.26-10.40.05:861][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001713s)
+[2018.09.26-10.40.05:890][825]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.40.05:921][825]LogInit: FAudioDevice initialized.
+[2018.09.26-10.40.05:955][825]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.40.05:957][825]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.40.05
+[2018.09.26-10.40.05:957][825]LogWorld: Bringing up level for play took: 0.000608
+[2018.09.26-10.40.05:969][825]PIE: /Game/UEDPIE_0_My2DMap 0.405のプレイ イン エディタの開始時間
+[2018.09.26-10.40.14:873][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.40.24:335][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.40.38:449][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.40.38:485][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.40.38:524][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.40.38:552][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.26-10.40.41:304][236]LogEditorViewport: Clicking Background
+[2018.09.26-10.40.41:917][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.40.42:021][278]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.40.42:041][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.40.42:041][278]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:40:42)
+[2018.09.26-10.40.42:041][278]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.40.42:042][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000989s)
+[2018.09.26-10.40.42:042][278]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.40.42:043][278]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2018.09.26-10.40.42:043][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001549s)
+[2018.09.26-10.40.42:066][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.40.42:097][278]LogInit: FAudioDevice initialized.
+[2018.09.26-10.40.42:128][278]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.40.42:129][278]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.40.42
+[2018.09.26-10.40.42:130][278]LogWorld: Bringing up level for play took: 0.000619
+[2018.09.26-10.40.42:143][278]PIE: /Game/UEDPIE_0_My2DMap 0.579のプレイ イン エディタの開始時間
+[2018.09.26-10.40.48:540][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.40.48:583][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.40.48:621][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.40.48:647][752]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.26-10.40.49:451][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.50.09:236][569]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/My2DGameMode.My2DGameMode
+[2018.09.26-10.50.42:082][554]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.26-10.50.42:151][555]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Mypaper2DGame
+[2018.09.26-10.50.42:151][555]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.26-10.50.42:151][555]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.26-10.50.42:151][555]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.26-10.50.42:151][555]LogTemp: BranchPath = AOTA1-1L141-16D/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = AOTA1-1L141-16D/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.26-10.50.42:151][555]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\RenTak\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.26-10.51.10:751][123]LogSlate: Window 'プロジェクト設定' being destroyed
+[2018.09.26-10.51.10:755][123]LogSlate: Window 'プロジェクト設定' being destroyed
+[2018.09.26-10.51.28:084][308]LogSlate: Window '親クラスを選択' being destroyed
+[2018.09.26-10.51.50:402][312]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.26-10.52.02:263][558]LogSlate: Window '親クラスを選択' being destroyed
+[2018.09.26-10.52.25:997][611]LogSlate: Window '新規ブループリントを作成' being destroyed
+[2018.09.26-10.52.34:460][  8]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-10.52.59:231][693]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UIHUD.UIHUD
+[2018.09.26-10.53.28:107][737]BlueprintLog: New page: UIHUD をコンパイル
+[2018.09.26-10.53.28:732][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UIHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset" SILENT=true
+[2018.09.26-10.53.28:739][750]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUD5AE413284C45FBE80FCB94BF297CDB89.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset'
+[2018.09.26-10.53.30:876][852]LogSlate: Window 'UIHUD' being destroyed
+[2018.09.26-10.53.32:385][ 33]BlueprintLog: New page: My2DGameMode をコンパイル
+[2018.09.26-10.53.33:072][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/My2DGameMode" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/My2DGameMode.uasset" SILENT=true
+[2018.09.26-10.53.33:091][ 94]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/My2DGameModeB7CBA458481ABCAFBD35D785256DEC43.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/My2DGameMode.uasset'
+[2018.09.26-10.53.34:522][182]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.53.34:549][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.53.34:549][182]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:53:34)
+[2018.09.26-10.53.34:549][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.53.34:550][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001038s)
+[2018.09.26-10.53.34:551][182]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.53.34:551][182]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.09.26-10.53.34:551][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001697s)
+[2018.09.26-10.53.34:585][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.53.34:603][182]LogInit: FAudioDevice initialized.
+[2018.09.26-10.53.34:634][182]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.53.34:636][182]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.53.34
+[2018.09.26-10.53.34:636][182]LogWorld: Bringing up level for play took: 0.000659
+[2018.09.26-10.53.34:649][182]PIE: /Game/UEDPIE_0_My2DMap 1.094のプレイ イン エディタの開始時間
+[2018.09.26-10.53.39:158][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.53.39:212][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.53.39:247][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.53.39:280][413]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.26-10.53.56:764][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.53.57:018][605]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/2DHUD.2DHUD
+[2018.09.26-10.53.57:398][606]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.09.26-10.54.14:682][326]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-10.54.46:199][ 62]BlueprintLog: New page: 2DHUD をコンパイル
+[2018.09.26-10.54.46:690][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/2DHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/2DHUD.uasset" SILENT=true
+[2018.09.26-10.54.46:699][ 98]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/2DHUD956D3FA84690F00A80467291D14BE0A0.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/2DHUD.uasset'
+[2018.09.26-10.54.48:240][199]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.54.48:272][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.54.48:272][199]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:54:48)
+[2018.09.26-10.54.48:272][199]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.54.48:273][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001224s)
+[2018.09.26-10.54.48:274][199]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.54.48:274][199]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.09.26-10.54.48:274][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.002079s)
+[2018.09.26-10.54.48:309][199]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.54.48:327][199]LogInit: FAudioDevice initialized.
+[2018.09.26-10.54.48:360][199]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.54.48:361][199]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.54.48
+[2018.09.26-10.54.48:362][199]LogWorld: Bringing up level for play took: 0.000669
+[2018.09.26-10.54.48:378][199]PIE: /Game/UEDPIE_0_My2DMap 0.824のプレイ イン エディタの開始時間
+[2018.09.26-10.54.52:070][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.54.52:116][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.54.52:154][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.54.52:186][385]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.09.26-10.54.53:421][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-10.54.58:520][ 16]BlueprintLog: New page: UIHUD をコンパイル
+[2018.09.26-10.54.59:083][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UIHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset" SILENT=true
+[2018.09.26-10.54.59:102][ 68]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUD9D2D059E4945151A79E1E4865588E1FB.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset'
+[2018.09.26-10.55.00:556][157]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-10.55.00:588][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-10.55.00:588][157]PIE: New page: PIEセッション: My2DMap (2018/09/26 16:55:00)
+[2018.09.26-10.55.00:588][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-10.55.00:590][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2018.09.26-10.55.00:590][157]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-10.55.00:591][157]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.09.26-10.55.00:591][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.002552s)
+[2018.09.26-10.55.00:628][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-10.55.00:645][157]LogInit: FAudioDevice initialized.
+[2018.09.26-10.55.00:676][157]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-10.55.00:677][157]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-13.55.00
+[2018.09.26-10.55.00:677][157]LogWorld: Bringing up level for play took: 0.000681
+[2018.09.26-10.55.00:704][157]PIE: /Game/UEDPIE_0_My2DMap -0.85のプレイ イン エディタの開始時間
+[2018.09.26-10.55.04:060][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.55.04:112][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-10.55.04:150][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-10.55.04:184][323]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.09.26-11.01.41:053][577]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/My2DMap_Auto9BC27E8704301DCB6623E15BABBE756BF.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/My2DMap_Auto9.umap'
+[2018.09.26-11.01.41:057][577]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.067
+[2018.09.26-11.01.41:057][577]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.067
+[2018.09.26-11.08.32:990][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_2.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_4.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_5.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_6.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_7.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_8.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_9.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_10.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_24.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_23.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_22.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_21.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_16.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_17.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_18.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_15.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Game/BluePrints/UIHUD.UIHUD_C:WidgetTree.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_20.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_19.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_20.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_18.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Game/BluePrints/UIHUD.UIHUD:WidgetTree.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:UIHUD_C_17.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_MyInventory_C_55:WidgetTree.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_33.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_MyInventory_C_78:WidgetTree.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_32.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_27.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_31.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Engine/Transient.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:MyInventory_C_30.WidgetTree_0.CanvasPanel_0
+[2018.09.26-11.09.35:769][746]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.CanvasPanel_0:CanvasPanelSlot_1) from referencer (Button /Engine/UMG/Editor/Transient.Button_0).  Import failed...
+[2018.09.26-11.09.35:769][746]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2018.09.26-11.09.38:860][ 82]LogEditorTransaction: Undo ウィジェットを移動
+[2018.09.26-11.09.39:736][171]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2018.09.26-11.09.40:415][252]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2018.09.26-11.09.40:815][300]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2018.09.26-11.09.41:390][369]LogEditorTransaction: Undo アニメート可能なプロパティを変更しました
+[2018.09.26-11.10.09:216][635]LogSlate: Window 'カラー ピッカー' being destroyed
+[2018.09.26-11.10.39:595][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UIHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset" SILENT=true
+[2018.09.26-11.10.39:615][259]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUD6DCF181A44D875982EA9598F6B3F0513.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset'
+[2018.09.26-11.11.44:300][803]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.26-11.12.01:129][234]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UIHUD.UIHUD
+[2018.09.26-11.13.15:899][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.040
+[2018.09.26-11.13.15:900][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/2DHUD] ([1] browsable assets)...
+[2018.09.26-11.13.15:900][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/2DHUD]
+[2018.09.26-11.13.15:920][429]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/2DHUD_Auto0E0A78CA944BA6F63C254F98F06F10D46.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/2DHUD_Auto0.uasset'
+[2018.09.26-11.13.15:923][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/UIHUD] ([1] browsable assets)...
+[2018.09.26-11.13.15:923][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UIHUD]
+[2018.09.26-11.13.15:938][429]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUD_Auto09A9FC6BB4EA0EDA16D6B99A7CBF36D0D.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/UIHUD_Auto0.uasset'
+[2018.09.26-11.13.15:939][429]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.09.26-11.14.40:529][711]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-11.14.48:794][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/My2DMap" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/My2DMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.26-11.14.48:844][686]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/My2DMap49178ACA4AE99839AA9560AB77982595.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/My2DMap.umap'
+[2018.09.26-11.14.48:893][686]LogFileHelpers: Saving map 'My2DMap' took 0.160
+[2018.09.26-11.14.48:898][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/2DHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/2DHUD.uasset" SILENT=true
+[2018.09.26-11.14.48:913][686]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/2DHUDC4E915524EF389FDBC7C0EA4A3097B72.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/2DHUD.uasset'
+[2018.09.26-11.14.48:922][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UIHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset" SILENT=true
+[2018.09.26-11.14.48:938][686]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUD268674B34332724092400EA818B1FBA1.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset'
+[2018.09.26-11.41.18:407][321]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.26-11.41.18:430][321]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2018.09.26-11.41.18:436][321]LogPlayLevel: [PlayLevel] Compiling UIHUD before play...
+[2018.09.26-11.41.18:604][321]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2018.09.26-11.41.18:604][321]PIE: New page: PIEセッション: My2DMap (2018/09/26 17:41:18)
+[2018.09.26-11.41.18:604][321]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_My2DMap
+[2018.09.26-11.41.18:605][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001057s)
+[2018.09.26-11.41.18:606][321]LogAIModule: Creating AISystem for world My2DMap
+[2018.09.26-11.41.18:606][321]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.09.26-11.41.18:606][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/My2DMap.My2DMap to /Game/UEDPIE_0_My2DMap.My2DMap (0.001728s)
+[2018.09.26-11.41.18:631][321]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-11.41.18:711][321]LogInit: FAudioDevice initialized.
+[2018.09.26-11.41.18:740][321]LogLoad: Game class is 'My2DGameMode_C'
+[2018.09.26-11.41.18:742][321]LogWorld: Bringing World /Game/UEDPIE_0_My2DMap.My2DMap up for play (max tick rate 0) at 2018.09.26-14.41.18
+[2018.09.26-11.41.18:742][321]LogWorld: Bringing up level for play took: 0.000712
+[2018.09.26-11.41.18:758][321]PIE: /Game/UEDPIE_0_My2DMap 1.17のプレイ イン エディタの開始時間
+[2018.09.26-11.41.21:247][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-11.41.21:278][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-11.41.21:313][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-11.41.21:364][469]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.09.26-11.57.00:531][420]BlueprintLog: New page: 2DHUD をコンパイル
+[2018.09.26-11.57.01:106][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/2DHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/2DHUD.uasset" SILENT=true
+[2018.09.26-11.57.01:128][471]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/2DHUDE8FDC0824C01F8B358FAA0ADDCA48906.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/2DHUD.uasset'
+[2018.09.26-11.57.17:051][370]LogEditorTransaction: Undo ウィジェットを取り除く
+[2018.09.26-11.57.53:880][547]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/My2DMap' took 0.028
+[2018.09.26-11.57.53:881][547]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/UIHUD] ([1] browsable assets)...
+[2018.09.26-11.57.53:881][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UIHUD]
+[2018.09.26-11.57.53:898][547]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUD_Auto1EB42AF8548788A022F93AA86FCE66C45.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/Autosaves/Game/BluePrints/UIHUD_Auto1.uasset'
+[2018.09.26-11.57.53:899][547]LogFileHelpers: Auto-saving content packages took 0.019
+[2018.09.26-11.59.21:625][289]Cmd: TRANSACTION UNDO
+[2018.09.26-11.59.21:625][289]LogEditorTransaction: Undo 変数を切り替える
+[2018.09.26-11.59.22:488][385]LogEditorTransaction: Undo 選択対象を削除
+[2018.09.26-12.01.16:564][518]BlueprintLog: New page: 2DHUD をコンパイル
+[2018.09.26-12.02.58:923][878]BlueprintLog: New page: UIHUD をコンパイル
+[2018.09.26-12.02.59:606][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/UIHUD" FILE="../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset" SILENT=true
+[2018.09.26-12.02.59:627][939]LogSavePackage: Moving '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Saved/UIHUDCBA7175E40F6DE6DDE79299624439893.tmp' to '../../../../../../Users/RenTak/Documents/Unreal Projects/Mypaper2DGame/Content/BluePrints/UIHUD.uasset'
+[2018.09.26-12.03.36:832][357]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.26-12.04.00:635][962]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/MyCharcter.MyCharcter
+[2018.09.26-12.06.42:329][211]BlueprintLog: New page: UIHUD をコンパイル
+[2018.09.26-12.06.42:969][211]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.605 s
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: 
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: SObjectWidget for 'MyInventory_C /Engine/Transient.World_17:UIHUD_C_13.WidgetTree_0.MyInventory' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: Stack: 
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0edc71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0eb00c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0eb1b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffdf7e89a63 UE4Editor-UMG.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0d66f32a UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0dbbfc17 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0dbc3419 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffdf7f51c4b UE4Editor-UMG.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0e542ad1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0e51756e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0e493f54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0e4934ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffdefd80091 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffdf0e9df4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffdefd7f8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffdefde05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0d9c29fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0dac5872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0daa24bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0db89c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0d9794c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0da11db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0d9f7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0d9eb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0de9d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0de90270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0de9f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0de8c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe4b3bbc50 USER32.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe4b3bb5cf USER32.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe0dea0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ff7615454e5 UE4Editor.exe!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ff761555b3c UE4Editor.exe!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ff761555bba UE4Editor.exe!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ff761563dac UE4Editor.exe!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ff761565aaa UE4Editor.exe!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe48d32784 KERNEL32.DLL!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: [Callstack] 0x00007ffe4b800c31 ntdll.dll!UnknownFunction []
+[2018.09.26-12.06.42:969][211]LogOutputDevice: Error: 
+[2018.09.26-12.06.42:979][211]LogStats:                SubmitErrorReport -  0.000 s
